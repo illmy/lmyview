@@ -11,4 +11,4 @@ var config = {
 };
 $.lmyview(config);
 
-说明：word，excel文件的预览需要后端转码，同时提供基于tp5的PHP代码（容易修改为原生PHP）
+说明：word，excel文件的预览需要后端转码，同时提供PHP代码（容易修改为原生PHP）
